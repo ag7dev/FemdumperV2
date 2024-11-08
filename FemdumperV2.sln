@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FemdumperV2", "FemdumperV2\FemdumperV2.csproj", "{7CCCEF27-90EB-43B7-92D7-835BAA423395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CCCEF27-90EB-43B7-92D7-835BAA423395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCCEF27-90EB-43B7-92D7-835BAA423395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCCEF27-90EB-43B7-92D7-835BAA423395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCCEF27-90EB-43B7-92D7-835BAA423395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8338293C-382B-4581-947F-301A2F2F4546}
+	EndGlobalSection
+EndGlobal
